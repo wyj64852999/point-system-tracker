@@ -6,7 +6,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 #add a counter to print out stats
 #inster better fromater
  
-print("Welcome to the J.O.S.E., or the SHPE AI Secretary! Please sit back and let me do all of Jose's work!\n")
+print("Welcome to the S.E.R.G., or the SHPE AI Secretary! Please sit back and let me do all of Jose's work!\n")
 
 # use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds']
@@ -15,9 +15,9 @@ client = gspread.authorize(creds)
  
 # Find a workbook by name and open the first sheet
 # Make sure you use the right name here.
-jose = client.open("The J.O.S.E. (17-18)")
-sheetEA = jose.worksheet("Event Attend. F17-S18")
-sheetPM = jose.worksheet("Paid Members List")
+jose = client.open("S.E.R.G (18-19)")
+sheetEA = jose.worksheet("Event Attend. F18-S19")
+sheetPM = jose.worksheet("Paid Members")
 sheetPS = jose.worksheet("Point System")
 
 print("Opening the sheets!\n")
