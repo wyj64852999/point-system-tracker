@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shpe-officer",
+  "private_key_id": "7f041aaa1b91746eadd732e1e96fddb944db438e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxIQwaHbPmPJ63\nZykZUpPwkTVldChrwELYQ71iGU4KrjM908kzKOU4G4Dp40tIzdAT9Xogr0Gw1jtY\n7NFOaKg9x4EXmGoO9EWU09w0fjPEuQS0ZGI17eEAoWhL2GrbA6Z1VDEkloxScKX2\nIMLtc1O9sZZHFV82cIL51uZTdIkSxnKppVYieM8zpwcPrlck44GcB+AiUKS3fHAw\nVu7kniEnGmbKu2qsC2BCZa7nayLrmzzZP2IJ0O04cYXaDD/e1AeNtatWzK324Emw\n3WNDYRq7F/bQnq5YpbaGbf8uhfMX6zhkjGRqciDaAJEnrr0IIV2g1vywNqmeGIt6\n7V3soA2XAgMBAAECggEAXsIQafDzQg7fho51QbzIY3kFBVYVDmcTPb69HWB5YUwc\n2faw8jhnf9mbGw7WBonO9BD7Sf3lcFN4JhWGmWwadZDBw96DC1ZmQ7rQJhbUTEIz\nPZrXV38gdWl4vZmSQHhaQXBxEYJSKZGYPrWYNM0mAv1XY57b+F5Vsk4H3JMGzQfJ\nLiBZsCSVo8uuiG6Z6f1zK8ITn00p5C5KXNkshr0Hrk7RMCH4EMYlXx0rsyKySG0b\nTufVEiQiSyU8t6sZsjuU/dJNwjkadcemdKqxNvrIfIgBToyKcgAyH7WNxwP7rkdJ\nTTcTR///2QlHPe7EPniEpIZ78zGQ9vB2VCyL5uHk3QKBgQD/NhvxzIIc3M/j+CgW\nQqu00zB4Qbak7v8Ob+a2l7YVB2topcmK+K8lQBgjoseIS0Z1Oc/i2mfjaieFENwQ\nD38mOdqTYefPHDVlIyaQKxLcJH4Mb72jYGMxbfxFxsPBpha4RYC1QDy1bYlm2tKG\nRPhXUnfxwNO0aQ2C4m/RLq8JcwKBgQDx38xKQNajJaiy9R7nWmOanYAiOA5PbdXH\nJfwyRxN4mcgdvTgguxEQDPfWj4c0yielE3+o1YfbovwwZkRdx3TQsaRRf8Mm9c18\nlTenPOefyJbx8TbqJwQo9mSZPR5JDzxF/LL8Dhm6b71N3Q4NJq6Xp0xdnUWfkGM2\ntgN0s+dyTQKBgGuGhKePnpJChmRqPZmDZYy+HgHMzgMXnuaaRv5PVSvvAFYK46tl\ns4ViR8lb3+2QqZLiVLAjjPnH0/bAb7dkkBGu9mR6L4yXOffuo2TCgSO3TFQ5EBEx\nnxlIWa2cXQXN0Gy6+8th0TIvgGCReXmQvYEtAdQdhhTQ3hxzAuGDZcP5AoGBAO78\nA6wyWGEm6oK382sAQn4YtOwamvkcOyfkfkVnOPPmbnYD6htc+kTzq0XS1vLv8zAG\nDhLRuMTpS2i/Azntw5wYiZUFOdua7wfzn+OcJ/gWiB5SCcJd/pxCp69JVk01woYc\nYvTtMbqmgVMX4bRYzhWF9cxhgtNgJMeAG/YJc9vZAoGBAMakc4soTcbw+HPNBmYd\nd5tOv3nHds58zsLUwzmTXBsn9q3Nur3jvcum0Y5CsMVULTkaDNToUeMmpKWsjA6V\nRp9Nhl0qLBf2WBBiuL7i5IvYriCXXXzTIdN7+Smo31INtLQPb5vH1vnbTvzkJcL/\nfmGnAVFVGqavqwD5hbcUzoUt\n-----END PRIVATE KEY-----\n",
+  "client_email": "shpe-secretary@shpe-officer.iam.gserviceaccount.com",
+  "client_id": "113680045260070565970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shpe-secretary%40shpe-officer.iam.gserviceaccount.com"
+}
